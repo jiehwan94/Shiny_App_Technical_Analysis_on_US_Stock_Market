@@ -1,4 +1,4 @@
-# Shiny App Technical Analysis on US Stock Market
+# Technical Analysis on US Stock Market (Shiny App)
 
 Please refer to my blog for more info: https://94light.wixsite.com/mysite/post/shiny-app-technical-analysis-on-us-stock-market
 
